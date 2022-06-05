@@ -1,0 +1,4 @@
+<!--pages/fivethPage/fivethPage.wxml-->
+<view class="container">
+ 提交成功,坚持会带给你收获!
+</view>

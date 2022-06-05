@@ -1,0 +1,6 @@
+<!--pages/firstPage/firstPage.wxml-->
+<cover-view class="cover_wrap" scroll-top="0">
+  <cover-view class="cover_box cover_box_01" scroll-top="0">
+    <cover-image class="cover_img cover_img_001" bindtap="newpage1" src="../../icon/book.png" ></cover-image>
+  </cover-view>
+</cover-view>

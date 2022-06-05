@@ -1,0 +1,32 @@
+{
+  "pages": [
+    "pages/firstPage/firstPage",
+    "pages/secondPage/secondPage",
+    "pages/thirdPage/thirdPage",
+    "pages/fourthPage/fourthPage",
+    "pages/fivethPage/fivethPage"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Weixin",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "list": [{
+      "pagePath": "pages/firstPage/firstPage",
+      "text": "图书",
+      "iconPath": "icon/book1.png",
+      "selectedIconPath": "icon/book2.png"
+    },
+    {
+      "pagePath": "pages/secondPage/secondPage",
+      "text": "我的",
+      "iconPath": "icon/my1.png",
+      "selectedIconPath": "icon/my2.png"
+    }]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+  "lazyCodeLoading": "requiredComponents"
+}

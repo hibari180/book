@@ -1,0 +1,4 @@
+<!--pages/thirdPage/thirdPage.wxml-->
+<view class="container" bindtouchstart="touchStart" bindtouchmove="touchMove" bindtouchend="touchEnd">
+ 假设今日阅读计划已完成
+</view>
